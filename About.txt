@@ -1,0 +1,12 @@
+                                                   About Program
+
+
+          This program is an all-in-one travel assistant. It features a voice translator for easy communication,
+           a historical place finder to explore landmarks, a guidebook to help plan visits, and an accommodation
+           or hotel finder for a comfortable stay. With powerful Google libraries integrated, it ensures smooth
+           and efficient functionality, making it perfect for travelers seeking convenience and information
+           in one place.
+
+
+
+                                             Thank You For Visiting
